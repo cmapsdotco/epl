@@ -38,7 +38,7 @@ L.Control.Search = L.Control.extend({
 		autoCollapse: false,		//collapse search control after submit(on button or on tips if enabled tipAutoSubmit)
 		autoCollapseTime: 1200,		//delay for autoclosing alert and collapse after blur
 		zoom: null,					//zoom after pan to location found, default: map.getZoom()
-		position: 'topleft',
+		position: 'bottomleft',
 		textErr: 'Location not found',	//error message
 		textCancel: 'Cancel',		//title in cancel button		
 		textPlaceholder: 'Search...',//placeholder value			
