@@ -1,4 +1,5 @@
 var stadiums = [{
+
 "features": [
 { "type": "Feature", "properties": { "Team": "Arsenal", "FDCOUK": "Arsenal", "City": "London", "Stadium": "Emirates Stadium", "Capacity": 60361, "Latitude": 51.555134, "Longitude": -0.108312, "Country": "England", "misc": "UEFA CL" }, "geometry": { "type": "Point", "coordinates": [ -0.10831179158238, 51.555134359686576 ] } },
 { "type": "Feature", "properties": { "Team": "Aston Villa", "FDCOUK": "Aston Villa", "City": "Birmingham", "Stadium": "Villa Park", "Capacity": 42785, "Latitude": 52.509076, "Longitude": -1.884739, "Country": "England", "misc": "Relegation" }, "geometry": { "type": "Point", "coordinates": [ -1.884738622689868, 52.50907594562446 ] } },
@@ -22,4 +23,4 @@ var stadiums = [{
 { "type": "Feature", "properties": { "Team": "A.F.C. Bournemouth", "FDCOUK": "Bournemouth", "City": "Bournemouth", "Stadium": "Goldsands Stadium", "Capacity": 12000, "Latitude": 50.735230, "Longitude": -1.838288, "Country": "England", "misc": "Relegation" }, "geometry": { "type": "Point", "coordinates": [ -1.838288443275331, 50.735229657405668 ] } }
 ]
 }
-]
+];
