@@ -200,6 +200,7 @@
 /* general typography */
 .leaflet-container {
 	font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+	color: #FF0000;
 	}
 
 
@@ -435,7 +436,7 @@
 	width: 18px;
 	height: 14px;
 	font: 16px/14px Tahoma, Verdana, sans-serif;
-	color: #FF0000;
+	color: #c3c3c3;
 	text-decoration: none;
 	font-weight: bold;
 	background: transparent;
