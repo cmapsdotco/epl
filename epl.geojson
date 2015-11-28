@@ -25,4 +25,4 @@ var stadiums = [{
 { "type": "Feature", "properties": { "Team": "A.F.C. Bournemouth", "FDCOUK": "Bournemouth", "City": "Bournemouth", "Stadium": "Goldsands Stadium", "Capacity": 12000, "Latitude": 50.735230, "Longitude": -1.838288, "Country": "England", "misc": "Relegation", "logo": "http:\/\/www.cmaps.org\/epl\/bournemouth_shield.png" }, "geometry": { "type": "Point", "coordinates": [ -1.838288443275331, 50.735229657405668 ] } }
 ]
 }
-]
+];
