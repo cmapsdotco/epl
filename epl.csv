@@ -1,0 +1,21 @@
+X,Y,Team,FDCOUK,City,Stadium,Capacity,Latitude,Longitude,Country,misc,logo
+-0.10831179158238,51.555134359686576,Arsenal,Arsenal,London,Emirates Stadium,60361,51.555134359686576,-0.108311791582380,England,UEFA CL,http://www.cmaps.org/epl/arsenal_shield.jpg
+-1.884738622689868,52.50907594562446,Aston Villa,Aston Villa,Birmingham,Villa Park,42785,52.509075945624460,-1.884738622689868,England,Relegation,http://www.cmaps.org/epl/astonvilla_shield.png
+-0.190928150411455,51.481713584110018,Chelsea,Chelsea,London,Stamford Bridge,42449,51.481713584110018,-0.190928150411455,England,,http://www.cmaps.org/epl/chelsea_shield.png
+-2.966330820585463,53.438839490971354,Everton,Everton,Liverpool,Goodison Park,40157,53.438839490971354,-2.966330820585463,England,,http://www.cmaps.org/epl/everton_shield.jpg
+-2.960794754620264,53.430858614714786,Liverpool,Liverpool,Liverpool,Anfield,45276,53.430858614714786,-2.960794754620264,England,,http://www.cmaps.org/epl/liverpool_shield.jpg
+-2.200458226898678,53.483132426795983,Manchester City,Man City,Manchester,Etihad Stadium,47405,53.483132426795983,-2.200458226898678,England,UEFA CL,http://www.cmaps.org/epl/mancity_shield.png
+-2.291347443275331,53.463041155744563,Manchester United,Man United,Stretford,Old Trafford,75811,53.463041155744563,-2.291347443275331,England,UEFA CL,http://www.cmaps.org/epl/manutd_shield.jpg
+-1.621608820585463,54.975556,Newcastle United,Newcastle,Newcastle upon Tyne,Sports Direct Arena,52409,54.975555999999997,-1.621608820585463,England,,http://www.cmaps.org/epl/newcastle_shield.png
+1.309126746661232,52.622085112718686,Norwich City,Norwich,Norwich,Carrow Road,27010,52.622085112718686,1.309126746661232,England,,http://www.cmaps.org/epl/norwich_shield.png
+-2.175427174153525,52.988410550217736,Stoke City,Stoke,Stoke-on-Trent,Britannia Stadium,27740,52.988410550217736,-2.175427174153525,England,,http://www.cmaps.org/epl/stoke_shield.png
+-1.388258179414537,54.914404777357696,Sunderland,Sunderland,Sunderland,Stadium of Light,48707,54.914404777357696,-1.388258179414537,England,Relegation,http://www.cmaps.org/epl/sunderland_shield.jpg
+-3.934593007959033,51.642746720784849,Swansea City,Swansea,Swansea,Liberty Stadium,20520,51.642746720784849,-3.934593007959033,England,,http://www.cmaps.org/epl/swamsea_shield.jpg
+-0.065716641170926,51.603219431584485,Tottenham Hotspurs,Tottenham,London,White Hart Lane,36230,51.603219431584485,-0.065716641170926,England,Europa,http://www.cmaps.org/epl/tottenham_shield.png
+-1.96403860420881,52.50908859208581,West Bromwich Albion,West Brom,West Bromwich,The Hawthorns,27877,52.509088592085810,-1.964038604208810,England,,http://www.cmaps.org/epl/westbrom_shield.jpg
+-0.085368994738988,51.398296701719225,Crystal Palace,Crystal Palace,London,Selhurst Park,26309,51.398296701719225,-0.085368994738988,England,,http://www.cmaps.org/epl/crystalpalace_shield.jpg
+-1.142213688655066,52.620341072120638,Leicester City,Leicester,Leicester,King Power Stadium,32500,52.620341072120638,-1.142213688655066,England,UEFA CL,http://www.cmaps.org/epl/leicester_shield.jpg
+-1.390957240118723,50.905827758892777,Southampton,Southampton,Southampton,St Mary's Stadium,32689,50.905827758892777,-1.390957240118723,England,,http://www.cmaps.org/epl/southampton_shield.png
+-0.401560802104405,51.649908196626612,Watford,Watford,Watford,Vicarage Road,23500,51.649908196626612,-0.401560802104405,England,,http://www.cmaps.org/epl/watford_shield.jpg
+0.039444,51.531889711745123,West Ham United,West Ham,London,Boleyn Ground,35303,51.531889711745123,0.039444000000000,England,,http://www.cmaps.org/epl/westham_shield.jpg
+-1.838288443275331,50.735229657405668,A.F.C. Bournemouth,Bournemouth,Bournemouth,Goldsands Stadium,12000,50.735229657405668,-1.838288443275331,England,Relegation,http://www.cmaps.org/epl/bournemouth_shield.png
